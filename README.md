@@ -1,0 +1,3 @@
+# codesniphub
+
+Starter project.
